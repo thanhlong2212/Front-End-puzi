@@ -1,2 +1,2 @@
 # Front-End-puzi
-teampleat puzi-htn, css. js
+teampleat puzi-html, css. js
